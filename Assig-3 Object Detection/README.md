@@ -5,3 +5,5 @@ The following folder contains the assignment submission to Assignment-3 Object D
 - multiple_balls.mp4: mp4 file for multiple balls data
 - single_ball_kalman.mp4: Final video after applying object detection on single ball and Kalman Filter
 - multiple_ball_kalman.mp4: Final video after applying object detection on multiple balls and Kalman Filter
+
+**Note**: Videos will not be streamed on github, as github does not support it. Please download the videos locally for previewing.
